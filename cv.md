@@ -6,7 +6,7 @@
 ### Currently:
 I study JS. I want to be FrontEnd programmer.
 ### Skills:
-Before I wrote on Python
+Before I wrote on Python.I was manual tester.
 ### Projects:
 `Future`
 ### Experience:
