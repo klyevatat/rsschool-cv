@@ -10,7 +10,9 @@ Before I wrote on Python.I was manual tester.
 ### Projects:
 `Future`
 ### Experience:
-Mera NN
+-RZD Hospital
+
+-Mera NN
 ### Education:
 1. Lobachevsky State University
 2. Nizhny Novgorod Provincial College
